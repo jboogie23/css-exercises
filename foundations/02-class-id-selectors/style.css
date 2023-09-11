@@ -1,0 +1,13 @@
+p {
+    font-family: "Verdana", sans-serif;
+    background-color: #ffc0cb;
+}
+
+.size-24px {
+    font-size: 24px;
+}
+
+#blue-36px{
+    color: blue;
+    font-size: 36px;
+}
